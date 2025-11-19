@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NiharikaRindhe
-- 👀 I’m interested in AI ML
-- 🌱 I’m currently learning Image Processing
-- 💞️ I’m looking to collaborate on MLops
+- 👋 Hi, I’m Niharika Rindhe
+- 👀 I’m an AI ML Engineer
+- 🤝 I’m looking to collaborate on MLops and provide AI solutions.
 
 
 <!---
